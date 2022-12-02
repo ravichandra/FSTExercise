@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-02T11:38:00 IST" name="Suite" finished-at="2022-12-02T11:38:48 IST" duration-ms="48089">
+    <groups>
+    </groups>
+    <test started-at="2022-12-02T11:38:00 IST" name="Test" finished-at="2022-12-02T11:38:48 IST" duration-ms="48089">
+      <class name="exercisePackage.AssignmentTest1">
+        <test-method signature="sauceDemo()[pri:0, instance:exercisePackage.AssignmentTest1@2805d709]" started-at="2022-12-02T11:38:00 IST" name="sauceDemo" finished-at="2022-12-02T11:38:24 IST" duration-ms="23992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sauceDemo -->
+      </class> <!-- exercisePackage.AssignmentTest1 -->
+      <class name="exercisePackage.AssignmentTest2">
+        <test-method signature="computerDatabase()[pri:0, instance:exercisePackage.AssignmentTest2@12aba8be]" started-at="2022-12-02T11:38:24 IST" name="computerDatabase" finished-at="2022-12-02T11:38:48 IST" duration-ms="24051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- computerDatabase -->
+      </class> <!-- exercisePackage.AssignmentTest2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
